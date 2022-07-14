@@ -1,0 +1,14 @@
+{
+  "name": "allocate",
+  "version": "1.0.0",
+  "description": "Supply/Demand Problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "César Pérez Canseco",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
